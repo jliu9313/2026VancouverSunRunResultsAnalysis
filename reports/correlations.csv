@@ -1,0 +1,5 @@
+,pearson_r,pearson_p,spearman_rho,spearman_p,n
+age_mid vs chip_time_min,0.2423,0.0,0.1903,0.0,44849.0
+bib vs chip_time_min,0.508,0.0,0.538,0.0,44849.0
+start_delay_sec vs chip_time_min,0.4924,0.0,0.5501,0.0,44849.0
+sex_place vs chip_time_min,0.8719,0.0,0.9311,0.0,44849.0
